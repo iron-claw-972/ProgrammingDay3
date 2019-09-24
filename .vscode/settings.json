@@ -1,0 +1,28 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "bin/": true,
+    ".classpath": true,
+    ".project": true
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#edb3dd",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#66811f",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "titleBar.activeBackground": "#e38acb",
+    "titleBar.inactiveBackground": "#e38acb99",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveForeground": "#15202b99",
+    "statusBar.background": "#e38acb",
+    "statusBarItem.hoverBackground": "#d961b9",
+    "statusBar.foreground": "#15202b"
+  },
+  "peacock.color": "#e38acb"
+}
